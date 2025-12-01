@@ -1,27 +1,14 @@
-<!-- GitHub Profile README -->
 
-<!-- ⭐ Unique Animated Intro Section ⭐ -->
 
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=👋+Hey%2C+I'm+Bhaskar!;Full-Stack+Developer;Android+App+Developer;IoT+%7C+ML+Enthusiast;I+Love+Building+Smart+Systems+⚡" />
+<h2>👋 Hey, I'm Bhaskar</h2>
 
-<br>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=700&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;Web+Developer;UI%2FUX+Designer" />
+</p>
 
-<!-- Floating GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
----
-
-### 🌀 **Who Am I?**
-```yaml
-developer:
-  name: "Bhaskar"
-  role: "Full-Stack Developer"
-  specialties: ["IoT Systems", "Android Apps", "Automation", "ML Models"]
-  currently_building: "Fall Detection System (ESP32 + Kotlin)"
-  passion: "Turning Ideas → Real-World Solutions"
+</div>
 
 
 ## 🛠️ Tech Stack
@@ -83,4 +70,4 @@ developer:
 > “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
-
+</div>
