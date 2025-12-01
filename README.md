@@ -1,18 +1,28 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Bhaskar</h1>
-<h3 align="center">Full-Stack Developer | IoT & ML Enthusiast | Android App Developer</h3>
+<!-- ⭐ Unique Animated Intro Section ⭐ -->
+
+<div align="center">
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=👋+Hey%2C+I'm+Bhaskar!;Full-Stack+Developer;Android+App+Developer;IoT+%7C+ML+Enthusiast;I+Love+Building+Smart+Systems+⚡" />
+
+<br>
+
+<!-- Floating GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 ---
 
-## 🚀 About Me
-- 🔧 Passionate full-stack developer  
-- 🤖 Building **Fall Detection System** using ESP32 + MPU6050 + FSR  
-- 📱 Android apps using **Kotlin + Jetpack Compose**  
-- 🧠 Working on **Recommendation System (ML project)**  
-- 🎯 Love solving real-world engineering and automation problems  
+### 🌀 **Who Am I?**
+```yaml
+developer:
+  name: "Bhaskar"
+  role: "Full-Stack Developer"
+  specialties: ["IoT Systems", "Android Apps", "Automation", "ML Models"]
+  currently_building: "Fall Detection System (ESP32 + Kotlin)"
+  passion: "Turning Ideas → Real-World Solutions"
 
----
 
 ## 🛠️ Tech Stack
 
